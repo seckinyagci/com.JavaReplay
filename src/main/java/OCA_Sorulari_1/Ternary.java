@@ -1,4 +1,4 @@
-package OCA_Sorulari_2;
+package OCA_Sorulari_1;
 
 public class Ternary {
     public static void main(String[] args) {

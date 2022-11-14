@@ -5,7 +5,7 @@ public class StringManipulationOca {
         String number= "012345678";
 
         System.out.println(number.substring(1,3));
-        System.out.println(number.substring(7,7));
+        System.out.println(number.substring(7,7)); // hiclik verir
 
     }
     public void methodA(){

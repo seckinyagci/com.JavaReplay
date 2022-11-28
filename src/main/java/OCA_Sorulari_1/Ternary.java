@@ -23,9 +23,14 @@ public class Ternary {
         // ilk ternary dogru oldugu icin ilk olasilik
         // ilk olasilik yanlis oldugu icin onun ikinci olasiligi yani 8 yazdirilir
 
+
         System.out.println("cakisma olacak mi 1");
-        System.out.println("cakisma olacak mi 2");
-        System.out.println("cakisma olacak mi 3");
+
+
+
+        System.out.println("cakisma olasiligi seckin1");
+
+
 
     }
 }
